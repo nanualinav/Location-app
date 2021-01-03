@@ -1,0 +1,30 @@
+PODS:
+  - FSPagerView (0.8.3)
+  - Kingfisher (4.10.1)
+  - Realm (10.5.0):
+    - Realm/Headers (= 10.5.0)
+  - Realm/Headers (10.5.0)
+  - RealmSwift (10.5.0):
+    - Realm (= 10.5.0)
+
+DEPENDENCIES:
+  - FSPagerView
+  - Kingfisher (~> 4.0)
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - FSPagerView
+    - Kingfisher
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  Realm: e1c22c3d83b229afb70ebc10e1771c91e9542d12
+  RealmSwift: 6fc078d9d3fd7e58c71bfdbb694e252462f112a5
+
+PODFILE CHECKSUM: 7a34f31c7461150c63ea5d2e6fd9a144a94d52c7
+
+COCOAPODS: 1.10.0
